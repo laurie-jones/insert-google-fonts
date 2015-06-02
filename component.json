@@ -1,0 +1,8 @@
+{
+  "name": "insert-google-fonts",
+  "dependencies": {
+  },
+  "scripts": [
+    "index.js"
+  ]
+}
